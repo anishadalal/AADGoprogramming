@@ -1,0 +1,10 @@
+<students>
+    <student>
+        <name>John</name>
+        <marks>85</marks>
+    </student>
+    <student>
+        <name>Jane</name>
+        <marks>90</marks>
+    </student>
+</students>
